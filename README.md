@@ -1,4 +1,5 @@
 # SharedIcons
+Shared icons used by the Star Citizen Wikis
 
 ## Setup
 ```

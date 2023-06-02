@@ -1,0 +1,9 @@
+{
+	"private": true,
+	"scripts": {
+		"minify-svg": "svgo --config=.svgo.config.js --quiet --recursive --folder icons/"
+	},
+	"devDependencies": {
+		"svgo": "3.0.2"
+	}
+}

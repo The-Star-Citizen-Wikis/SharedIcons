@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="Layer_1" x="0" y="0" style="enable-background:new 0 0 50 50" version="1.1" viewBox="0 0 50 50">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 50 50" viewBox="0 0 50 50">
 	<path d="M34.5 27.4c-.4 0-.7.1-1.1.3l-.9.6c-.3.2-.7.3-1.1.3h-2.2v-7.2h2.2c.4 0 .8.1 1.1.3l.9.6c.3.2.7.3 1.1.3h14.9l.6-.6v-3.2l-.6-.6-38.7-.1-1.6 1.2h-2l-1.9-2.6H.6l-.6.6v15.4l.6.6h4.7l1.9-2.6h2l1.6 1.2h38.7l.6-.6V28l-.6-.6h-15zm-8.6-.9-.5.5h-.7l-.4-.4v-3l.4-.4h.7l.4.4v2.9z"/>
 </svg>

@@ -1,8 +1,9 @@
 # Logos
 
 These logos are extracted from game files and then cleaned up.
-Clean up includes adding applying an unified size through the template,
-and optimizing through SVGO.
+Clean up includes:
+- Applying an unified size through the template,
+- Optimizing through SVGO.
 
 Logo | Source | Additional changes
 :--- | :--- | :---

@@ -1,25 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24">
-	<defs>
-		<clipPath id="clippath">
-			<path d="M0 0h48v48H0z" style="fill:none;stroke-width:0"/>
-		</clipPath>
-		<symbol id="material_system_icon_keylines" viewBox="0 0 48 48">
-			<g style="opacity:.4">
-				<g style="clip-path:url(#clippath)">
-					<path d="M24 0v48m24-24H0m48-8H0m48 16H0m32 16V0M16 48V0m31.75.25L.25 47.75m0-47.5 47.5 47.5M24 14c-5.52 0-10 4.48-10 10s4.48 10 10 10 10-4.48 10-10-4.48-10-10-10Z" class="cls-3"/>
-					<path d="M24 4C12.95 4 4 12.95 4 24s8.95 20 20 20 20-8.95 20-20S35.05 4 24 4Z" class="cls-3"/>
-					<path d="M38 6H10c-2.21 0-4 1.79-4 4v28c0 2.21 1.79 4 4 4h28c2.21 0 4-1.79 4-4V10c0-2.21-1.79-4-4-4Z" class="cls-3"/>
-					<path d="M40 8H8c-2.21 0-4 1.79-4 4v24c0 2.21 1.79 4 4 4h32c2.21 0 4-1.79 4-4V12c0-2.21-1.79-4-4-4Z" class="cls-3"/>
-					<path d="M40 40V8c0-2.21-1.79-4-4-4H12C9.79 4 8 5.79 8 8v32c0 2.21 1.79 4 4 4h24c2.21 0 4-1.79 4-4Z" class="cls-3"/>
-					<path d="M47.75.25v47.5H.25V.25h47.5M48 0H0v48h48V0Z" class="cls-1"/>
-				</g>
-			</g>
-		</symbol>
-		<style>
-			.cls-1{fill:#000;stroke-width:0}.cls-3{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:.25px}
-		</style>
-	</defs>
-	<use xlink:href="#material_system_icon_keylines" id="keylines" width="48" height="48" transform="scale(.5)"/>
 	<path id="icon" d="m11.04 7.38.38.1c.12.03.22.15.22.27v11.41c0 .14-.09.24-.22.27l-.38.1a.301.301 0 0 1-.33-.14l-3.26-5.67a.353.353 0 0 1-.03-.14v-.27c0-.05.02-.1.03-.14l3.26-5.67a.29.29 0 0 1 .33-.14Zm1.9 0-.38.1c-.12.03-.22.15-.22.27v11.41c0 .14.09.24.22.27l.38.1c.12.03.26-.02.33-.14l3.26-5.67c.02-.05.03-.09.03-.14v-.27c0-.05-.02-.1-.03-.14L13.27 7.5c-.05-.12-.19-.17-.33-.14ZM2.54 4.93l.21-.36a.29.29 0 0 1 .26-.14h7.71c.1 0 .21.05.26.14l.21.36c.05.09.05.21 0 .29L7.33 11.9a.29.29 0 0 1-.26.14h-.43c-.1 0-.21-.05-.26-.14L2.52 5.22c-.03-.1-.03-.21.02-.29Zm10.28 0 .21-.36a.29.29 0 0 1 .26-.14H21c.1 0 .21.05.26.14l.21.36c.05.09.05.21 0 .29l-3.86 6.68a.29.29 0 0 1-.26.14h-.43c-.1 0-.21-.05-.26-.14L12.8 5.22c-.03-.1-.03-.21.02-.29Z" class="cls-1"/>
 </svg>

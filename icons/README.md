@@ -8,4 +8,4 @@ Clean up includes:
 
 Icon | Source | Additional changes
 :--- | :--- | :---
-`sc-icon-manufacturer-acdo.svg` | `icon_brand_aciedo.svg` | None
+`sc-icon-brand-acdo.svg` | `icon_brand_aciedo.svg` | None

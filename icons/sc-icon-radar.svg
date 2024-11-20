@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 50 50" viewBox="0 0 50 50">
-	<circle cx="25" cy="25" r="22.8" style="opacity:.5;enable-background:new"/>
-	<path d="M50 24.6H25.8V.4h-1.2v24.2H.4v1.2h24.2V50h1.2V26.7L39.3 41c.5.5 1.2.5 1.7 0 .4-.4.5-1.1.1-1.6l-.1-.1-14.4-13.5H50v-1.2z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="icon" viewBox="0 0 24 24">
+	<defs>
+		<style>
+			.cls-1{fill:#000;stroke-width:0}
+		</style>
+	</defs>
+	<circle cx="5.06" cy="18.94" r="2.06" class="cls-1"/>
+	<path d="M11.71 18.94H9.99c0-2.74-2.23-4.96-4.96-4.96v-1.72c3.71.03 6.69 3.01 6.69 6.69Z" class="cls-1"/>
+	<path d="M16.17 18.94h-1.72c0-5.17-4.22-9.39-9.39-9.39V7.83c6.11 0 11.11 5 11.11 11.11Z" class="cls-1"/>
+	<path d="M21 18.94h-1.72c0-7.83-6.38-14.22-14.22-14.22V3C13.84 3 21 10.16 21 18.94Z" class="cls-1"/>
 </svg>

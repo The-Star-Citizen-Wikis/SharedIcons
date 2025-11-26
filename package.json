@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"scripts": {
-		"minify-svg": "svgo --config=.svgo.config.js --quiet --multipass --recursive --folder icons/ --folder logos/"
+		"minify-svg": "svgo --config=.svgo.config.js --quiet --recursive --folder icons/ && svgo --config=.svgo.config.js --quiet --recursive --folder logos/"
 	},
 	"devDependencies": {
 		"svgo": "4.0.0"

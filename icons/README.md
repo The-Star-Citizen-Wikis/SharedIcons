@@ -1,10 +1,12 @@
 # Icons
 
-These icons are extracted from game files and then cleaned up.
 Clean up includes:
 - Applying an unified size through the template
 - Optimizing through SVGO
 - Stripping out colors so that it can be styled with CSS
+
+## Game files
+These logos are extracted from game files.
 
 Icon | Source | Additional changes
 :--- | :--- | :---
@@ -29,3 +31,10 @@ Icon | Source | Additional changes
 `sc-icon-brand-shin.svg` | `icon_brand_shubin.svg` | None
 `sc-icon-brand-tmbl.svg` | `icon_brand_tumbril.svg` | None
 `sc-icon-brand-uee.svg` | `icon_brand_uee.svg` | None
+
+## Other sources
+These logos are extracted from other sources.
+
+Logo | Source | Additional changes
+:--- | :--- | :---
+`sc-icon-brand-glsn.svg` | https://robertsspaceindustries.com/en/pledge/ships/shiv/Shiv | Simplify the logo according to IAE 2955 page

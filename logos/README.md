@@ -1,9 +1,11 @@
 # Logos
 
-These logos are extracted from game files and then cleaned up.
 Clean up includes:
 - Applying an unified size through the template,
 - Optimizing through SVGO.
+
+## Game files
+These logos are extracted from game files.
 
 Logo | Source | Additional changes
 :--- | :--- | :---
@@ -31,3 +33,10 @@ Logo | Source | Additional changes
 `sc-logo-traveler.svg` | `logo_traveler_a.svg` | None
 `sc-logo-tumbril.svg` | `logo_tumbril_a.svg` | None
 `sc-logo-vantage.svg` | `logo_vantage_a.svg` | None
+
+## Other sources
+These logos are extracted from other sources.
+
+Logo | Source | Additional changes
+:--- | :--- | :---
+`sc-logo-greys-market.svg` | https://robertsspaceindustries.com/en/pledge/ships/shiv/Shiv | None

@@ -11,7 +11,6 @@ module.exports = {
 			name: 'preset-default',
 			params: {
 				overrides: {
-					removeViewBox: false,
 					// If the SVG doesn't start with an XML declaration, then its MIME type will
 					// be detected as "text/plain" rather than "image/svg+xml" by libmagic and,
 					// consequently, MediaWiki's CSSMin CSS minifier. libmagic's default database

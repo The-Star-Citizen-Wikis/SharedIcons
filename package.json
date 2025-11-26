@@ -4,6 +4,6 @@
 		"minify-svg": "svgo --config=.svgo.config.js --quiet --multipass --recursive --folder icons/ --folder logos/"
 	},
 	"devDependencies": {
-		"svgo": "3.0.2"
+		"svgo": "4.0.0"
 	}
 }

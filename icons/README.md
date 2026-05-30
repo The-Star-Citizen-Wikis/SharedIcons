@@ -38,3 +38,4 @@ These logos are extracted from other sources.
 Logo | Source | Additional changes
 :--- | :--- | :---
 `sc-icon-brand-glsn.svg` | https://robertsspaceindustries.com/en/pledge/ships/shiv/Shiv | Simplify the logo according to IAE 2955 page
+`sc-icon-galactapedia.svg` | https://robertsspaceindustries.com/galactapedia | None

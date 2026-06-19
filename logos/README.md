@@ -23,6 +23,7 @@ Logo | Source | Additional changes
 `sc-logo-gatac.svg` | `logo_gatac_a.svg` | None
 `sc-logo-greycat.svg` | `logo_grey_cat_a.svg` | None
 `sc-logo-kruger-intergalactic.svg` | `logo_kruger_intergalactic_a.svg` | None
+`sc-logo-lightning-bolt-co.svg` | `LBCO_ammo_counter_logo.svg` + `LBCO_ammo_counter_bolt.svg` | Built and recolored from ammo counter sprites
 `sc-logo-mirai.svg` | `logo_mirai_a.svg` | None
 `sc-logo-misc.svg` | `logo_misc_a.svg` | None
 `sc-logo-newdeal.svg` | `logo_newdeal_a.svg` | None

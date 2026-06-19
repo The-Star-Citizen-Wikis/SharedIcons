@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 800 800">
+	<path d="M0 0h192v192H0z" style="fill:none" transform="scale(4.16667)"/>
+	<path d="m109.62 84.06-20-20h-8.34V41.78h21.58v11.94l-6.9 7.06 7.39 7.35 11.54-11.56.02-25.21H11.89l.02 25.21 11.54 11.56 7.39-7.35-6.9-7.06V41.78h21.58v22.28h-8.34l-20 20H0v10.42h21.59v-.07l20.04-20.04h4.56v34.56h10.42V74.38H70.2v34.56h10.42V74.38h4.56l20.04 20.04v.07H128V84.06zM56.66 64.05V41.78h13.51v22.27zm15.28-46.8L63.36 6.81l-9.23 10.44h-8.59v8.35h35.74v-8.35z" style="fill:#db7628;fill-rule:nonzero" transform="translate(83.333 113.64)scale(4.94792)"/>
+</svg>

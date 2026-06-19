@@ -28,6 +28,7 @@ Logo | Source | Additional changes
 `sc-logo-misc.svg` | `logo_misc_a.svg` | None
 `sc-logo-newdeal.svg` | `logo_newdeal_a.svg` | None
 `sc-logo-origin.svg` | `logo_origin_a.svg` | None
+`sc-logo-qv-planet-services.svg` | `logo_qv_a.svg` | Recolored based on [Galactapedia article](https://robertsspaceindustries.com/galactapedia/article/V7d3ZyP9X3-qv-planet-services)
 `sc-logo-regal.svg` | `logo_regal_a.svg` | None
 `sc-logo-rsi.svg` | `logo_rsi_a.svg` | None
 `sc-logo-shubin.svg` | `logo_shubin_a.svg` | None

@@ -42,4 +42,18 @@ These logos are extracted from other sources.
 
 Logo | Source | Additional changes
 :--- | :--- | :---
+`sc-logo-badger-bad.svg` | [Aerostar Group](https://robertsspaceindustries.com/en/orgs/S99) | None
+`sc-logo-behring-applied-technology.svg` | [Aerostar Group](https://robertsspaceindustries.com/en/orgs/S99) | None
+`sc-logo-beijing-reactor-and-enrichment-company.svg` | [Aerostar Group](https://robertsspaceindustries.com/en/orgs/S99) | None
+`sc-logo-casse-aerospace.svg` | [Aerostar Group](https://robertsspaceindustries.com/en/orgs/S99) | None
+`sc-logo-clarkson-energy.svg` | [Aerostar Group](https://robertsspaceindustries.com/en/orgs/S99) | None
+`sc-logo-ez-hab.svg` | [Aerostar Group](https://robertsspaceindustries.com/en/orgs/S99) | None
+`sc-logo-flashfire-systems.svg` | [Aerostar Group](https://robertsspaceindustries.com/en/orgs/S99) | None
+`sc-logo-gallenson-tactical-systems.svg` | Jump Point 09-05  | None
+`sc-logo-gold-horizon.svg` | [Aerostar Group](https://robertsspaceindustries.com/en/orgs/S99) | None
 `sc-logo-greys-market.svg` | https://robertsspaceindustries.com/en/pledge/ships/shiv/Shiv | None
+`sc-logo-original-systems.svg` | [Aerostar Group](https://robertsspaceindustries.com/en/orgs/S99) | None
+`sc-logo-vfg-industrial.svg` | [Aerostar Group](https://robertsspaceindustries.com/en/orgs/S99) | None
+`sc-logo-voyager-direct.svg` | [Aerostar Group](https://robertsspaceindustries.com/en/orgs/S99) | None
+`sc-logo-wei-tek.svg` | [Aerostar Group](https://robertsspaceindustries.com/en/orgs/S99) | None
+`sc-logo-willsop.svg` | [King Phoenix](https://robertsspaceindustries.com/spectrum/community/SC/forum/57219/thread/star-citizen-vectors-by-king-phoenix) | Modified to match Galactapedia version

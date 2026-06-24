@@ -1,5 +1,5 @@
-# SharedIcons
-Shared icons used by the Star Citizen Wikis
+# Star Citizen assets
+Star Citizen assets used by the Star Citizen Wikis
 
 ## Setup
 ```
